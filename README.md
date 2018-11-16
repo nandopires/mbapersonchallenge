@@ -1,5 +1,5 @@
 # MBAMOBI
-## personchallenge
+## Person Challenge
 CRUD com todas as operações relacionadas e persistidas em banco de dados, pessoa e perfil, atendendo o seguinte cenário.
 
 Uma pessoa está associada a um perfil e contém vários aplicativos;
